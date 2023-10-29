@@ -1,0 +1,15 @@
+
+
+# Discord Bot Token
+discordbottoken: "Token"
+
+# Discord Bot Status Type
+# Playing, Watching, Listening, Streaming
+discordbotstatustype: "Playing"
+
+# Discord Bot Online Status
+# ONLINE, IDLE, DO_NOT_DISTURB, INVISIBLE
+discordbotstatusonline: "ONLINE"
+
+# Discord Bot Status
+discordbotstatus: "Status"

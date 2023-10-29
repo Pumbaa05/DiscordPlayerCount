@@ -1,0 +1,4 @@
+name: DiscordPlayerCount
+version: '${version}'
+main: uk.pumbaa.discordplayercount.DiscordPlayerCount
+api-version: '1.20'
