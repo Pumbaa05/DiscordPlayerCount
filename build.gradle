@@ -22,6 +22,12 @@ dependencies {
     implementation("net.dv8tion:JDA:5.0.0-beta.17")
 }
 
+jar {
+    // Define the JAR file name and location
+    archiveFileName = 'DiscordPlayerCount-v1.0.jar'
+    destinationDirectory = file('build/libs')
+}
+
 def targetJavaVersion = 17
 java {
     def javaVersion = JavaVersion.toVersion(targetJavaVersion)

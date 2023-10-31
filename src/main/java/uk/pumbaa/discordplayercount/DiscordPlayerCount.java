@@ -17,7 +17,6 @@ public final class DiscordPlayerCount extends JavaPlugin {
     @Override
     public void onEnable() {
         // Plugin startup logic
-        DiscordPlayerCount plugin = this;
 
         saveDefaultConfig();
 
